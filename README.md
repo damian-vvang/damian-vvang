@@ -1,8 +1,12 @@
 ![mainPage](https://user-images.githubusercontent.com/116505961/197438107-c3bec6bd-bbca-4dd5-b66e-03ee565205a0.jpg)
-<h3 align="center">I'm Damian Wang. Glad to see you here!👋</h3>
+<h2 align="center">I'm Damian Wang. Glad to see you here!👋</h2>
 
-- 🌱 I’m currently learning **C# /.NET / Python**
+- 🌱 I’m currently learning **C# / .NET / Python**
 - 📫 How to reach me: damian.vvang@gmail.com
+
+<h3 align="left">Languages, Technology and Tools:</h3>
+
+<p align="left"> <a href="https://www.w3schools.com/cs/index.php/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="80" height="80"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="css3" width="80" height="80"/> </a> <a href="http://www.w3schools.me/aspnetcore/asp-net-core-tutorial" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="css3" width="80" height="80"/> </a> 
 
 <!--
 **damian-vvang/damian-vvang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
