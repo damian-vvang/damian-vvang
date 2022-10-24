@@ -1,5 +1,5 @@
-<h2 align="center">Hello World 👋, I'm Damian Wang!</h2>
-<h3 align="center">Glad to see you here! ✌️</h3>
+<h2 align="center">Hello World 👋 </h2>
+<h3 align="center">I'm Damian Wang. Glad to see you here! ✌️</h3>
 
 - 🌱 I’m currently learning **C# /.NET / Python**
 - 📫 How to reach me: damian.vvang@gmail.com
