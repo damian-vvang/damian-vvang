@@ -1,5 +1,5 @@
-<h2 align="center">Hello World 👋 </h2>
-<h3 align="center">I'm Damian Wang. Glad to see you here! ✌️</h3>
+![mainPage](https://user-images.githubusercontent.com/116505961/197438107-c3bec6bd-bbca-4dd5-b66e-03ee565205a0.jpg)
+<h3 align="center">I'm Damian Wang. Glad to see you here!👋</h3>
 
 - 🌱 I’m currently learning **C# /.NET / Python**
 - 📫 How to reach me: damian.vvang@gmail.com
