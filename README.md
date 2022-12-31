@@ -1,7 +1,7 @@
 ![mainPage](https://user-images.githubusercontent.com/116505961/197438107-c3bec6bd-bbca-4dd5-b66e-03ee565205a0.jpg)
 <h2 align="center">I'm Damian Wang. Glad to see you here!👋</h2>
 
-- 🌱 I’m currently learning **C# / .NET / Python**
+- 🌱 I’m currently learning **C# / .NET**
 - 📫 How to reach me: damian.vvang@gmail.com
 
 <h3 align="left">Languages, Technology and Tools:</h3>
