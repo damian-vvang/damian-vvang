@@ -6,7 +6,7 @@
 
 <h3 align="left">Languages, Technology and Tools:</h3>
 
-<p align="left"> <a href="https://www.w3schools.com/cs/index.php/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1067px-Logo_C_sharp.svg.png" alt="C#" width="80" height="80"/> </a> <a href="http://www.w3schools.me/aspnetcore/asp-net-core-tutorial" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="css3" width="80" height="80"/> </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/ottawa-js-logo-394DB38073-seeklogo.com.png" alt="C#" width="80" height="80"/> </a> 
+<p align="left"> <a href="https://www.w3schools.com/cs/index.php/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1067px-Logo_C_sharp.svg.png" alt="C#" width="80" height="80"/> </a> <a href="http://www.w3schools.me/aspnetcore/asp-net-core-tutorial" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="css3" width="80" height="80"/> </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="C#" width="80" height="80"/> </a> 
 
 <!--
 **damian-vvang/damian-vvang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
